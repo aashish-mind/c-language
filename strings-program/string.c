@@ -18,7 +18,7 @@ getch();
 */
 main(){
 char s [12];
-printf("enter a string");
+printf("enter a string for me");
 gets(s);
 puts(s);
 getch();}
